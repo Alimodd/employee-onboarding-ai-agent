@@ -4,10 +4,10 @@ Endpoints:
     GET  /health  -> {"status": "ok"}
     POST /chat    -> {"answer": "...", "status": "success"}
 
-The /chat route validates input with Pydantic, delegates to the reusable model
-client, and translates internal errors into safe HTTP responses. The provider
-SDK and the API key live exclusively behind model_client; they never appear in
-this layer or in any response.
+The /chat route validates input with Pydantic, delegates to the prompt-only HR
+FAQ logic (hr_faq), and translates internal errors into safe HTTP responses. The
+provider SDK and the API key live exclusively behind model_client; they never
+appear in this layer or in any response.
 """
 
 from __future__ import annotations
@@ -17,6 +17,7 @@ import logging
 from fastapi import FastAPI, HTTPException, status
 from pydantic import BaseModel, Field, field_validator
 
+import hr_faq
 import model_client
 
 # Basic logging configuration for an educational project.
@@ -59,6 +60,7 @@ class ChatRequest(BaseModel):
 
 class ChatResponse(BaseModel):
     answer: str
+    mode: str = hr_faq.MODE
     status: str = "success"
 
 
@@ -77,7 +79,7 @@ def chat(request: ChatRequest) -> ChatResponse:
     logger.info("Chat request received (message_len=%d)", len(request.message))
 
     try:
-        answer = model_client.generate_response(request.message)
+        result = hr_faq.answer_question(request.message)
     except model_client.ConfigurationError:
         # Server is misconfigured (e.g. missing API key). Do not leak details.
         logger.exception("Chat failed: server configuration error")
@@ -118,4 +120,4 @@ def chat(request: ChatRequest) -> ChatResponse:
         )
 
     logger.info("Chat request completed successfully")
-    return ChatResponse(answer=answer, status="success")
+    return ChatResponse(answer=result["answer"], mode=result["mode"], status="success")
