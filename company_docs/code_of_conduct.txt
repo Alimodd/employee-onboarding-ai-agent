@@ -1,0 +1,57 @@
+Title: Code of Conduct
+Document ID: NS-HR-004
+Document Type: HR Policy
+Version: 1.0
+Effective Date: 2026-01-01
+Country: All
+Department: All
+Audience: Employees
+Purpose: Describe the standards of behaviour expected at work.
+Scope: Applies to all employees of Northstar Analytics.
+
+Note: This is a synthetic, fictional document created for educational purposes.
+It does not describe any real company and is not legal advice.
+
+Overview
+--------
+The Code of Conduct describes how everyone at Northstar Analytics is expected to
+behave. It exists to keep the workplace safe, respectful, and trustworthy for all
+employees.
+
+Respect
+-------
+Treat colleagues respectfully at all times. Listen to others, communicate
+professionally, and value different perspectives. A respectful workplace helps
+everyone do their best work.
+
+Harassment and Discrimination
+-----------------------------
+Harassment and discrimination of any kind are not tolerated. This includes
+behaviour based on personal characteristics or background. Everyone is entitled to
+a workplace free from intimidation and unfair treatment.
+
+Confidential Information
+------------------------
+Protect confidential information belonging to the company, colleagues, and
+partners. Share such information only with people who are authorised to have it.
+Confidentiality applies both during and after employment.
+
+Conflicts of Interest
+---------------------
+Disclose conflicts of interest promptly. A conflict of interest is any situation
+where personal interests could improperly influence work decisions. Disclosing
+early allows the situation to be managed openly and fairly.
+
+Raising Concerns
+----------------
+Report serious concerns through the internal escalation route. Employees who
+raise genuine concerns in good faith should be able to do so without fear of
+retaliation. If unsure how to proceed, employees can contact HR for guidance.
+
+Summary
+-------
+- Treat colleagues respectfully.
+- No harassment or discrimination.
+- Protect confidential information.
+- Disclose conflicts of interest.
+- Report serious concerns through the internal escalation route.

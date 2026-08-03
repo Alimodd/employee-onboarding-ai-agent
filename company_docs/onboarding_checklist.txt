@@ -1,0 +1,56 @@
+Title: Onboarding Checklist
+Document ID: NS-HR-006
+Document Type: Onboarding Checklist
+Version: 1.0
+Effective Date: 2026-01-01
+Country: All
+Department: All
+Audience: New Employees
+Purpose: Guide new employees through their first steps at the company.
+Scope: Applies to all new employees of Northstar Analytics.
+
+Note: This is a synthetic, fictional document created for educational purposes.
+It does not describe any real company and is not legal advice.
+
+Overview
+--------
+Welcome to Northstar Analytics. This checklist helps new employees complete the
+key steps needed to get set up and productive during their first days.
+
+First Steps
+-----------
+- Complete your employee profile with the required personal and role details.
+- Sign the required internal documents so your records are complete.
+- Set up your company email account using the instructions provided.
+
+Security Setup
+--------------
+- Enable multi-factor authentication (MFA) on your company accounts. This is a
+  core security step and aligns with the IT Security Policy.
+
+People
+------
+- Meet your manager to discuss your role, goals, and early priorities.
+- Meet your onboarding buddy, who can answer everyday questions and help you
+  settle in.
+
+Policy Review
+-------------
+- Review the leave, remote-work, security, and conduct policies so you understand
+  the main expectations. These are the annual leave, remote work, IT security, and
+  code of conduct documents in this knowledge base.
+
+Check-In
+--------
+- Complete your first-week check-in with your manager to review progress and raise
+  any questions.
+
+Summary
+-------
+- Complete your employee profile.
+- Sign required internal documents.
+- Set up company email.
+- Enable multi-factor authentication.
+- Meet your manager and onboarding buddy.
+- Review leave, remote-work, security, and conduct policies.
+- Complete your first-week check-in.

@@ -1,0 +1,83 @@
+{
+  "knowledge_base": "Northstar Analytics (synthetic, educational)",
+  "generated_for": "Employee Onboarding AI Assistant",
+  "documents": [
+    {
+      "document_id": "NS-HR-001",
+      "title": "Annual Leave Policy",
+      "source_filename": "annual_leave_policy.txt",
+      "document_type": "HR Policy",
+      "version": "1.0",
+      "effective_date": "2026-01-01",
+      "country": "Belgium",
+      "department": "All",
+      "audience": "Employees"
+    },
+    {
+      "document_id": "NS-HR-002",
+      "title": "Remote Work Policy",
+      "source_filename": "remote_work_policy.txt",
+      "document_type": "HR Policy",
+      "version": "1.0",
+      "effective_date": "2026-01-01",
+      "country": "Belgium",
+      "department": "All",
+      "audience": "Employees"
+    },
+    {
+      "document_id": "NS-HR-003",
+      "title": "Sick Leave Policy",
+      "source_filename": "sick_leave_policy.txt",
+      "document_type": "HR Policy",
+      "version": "1.0",
+      "effective_date": "2026-01-01",
+      "country": "Belgium",
+      "department": "All",
+      "audience": "Employees"
+    },
+    {
+      "document_id": "NS-IT-001",
+      "title": "IT Security Policy",
+      "source_filename": "it_security_policy.txt",
+      "document_type": "IT Policy",
+      "version": "1.0",
+      "effective_date": "2026-01-01",
+      "country": "All",
+      "department": "All",
+      "audience": "Employees"
+    },
+    {
+      "document_id": "NS-HR-004",
+      "title": "Code of Conduct",
+      "source_filename": "code_of_conduct.txt",
+      "document_type": "HR Policy",
+      "version": "1.0",
+      "effective_date": "2026-01-01",
+      "country": "All",
+      "department": "All",
+      "audience": "Employees"
+    },
+    {
+      "document_id": "NS-HR-005",
+      "title": "Employee Benefits Guide",
+      "source_filename": "employee_benefits_guide.txt",
+      "document_type": "HR Guide",
+      "version": "1.0",
+      "effective_date": "2026-01-01",
+      "country": "Belgium",
+      "department": "All",
+      "audience": "Employees"
+    },
+    {
+      "document_id": "NS-HR-006",
+      "title": "Onboarding Checklist",
+      "source_filename": "onboarding_checklist.txt",
+      "document_type": "Onboarding Checklist",
+      "version": "1.0",
+      "effective_date": "2026-01-01",
+      "country": "All",
+      "department": "All",
+      "audience": "New Employees"
+    }
+  ]
+}

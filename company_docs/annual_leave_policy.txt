@@ -1,0 +1,60 @@
+Title: Annual Leave Policy
+Document ID: NS-HR-001
+Document Type: HR Policy
+Version: 1.0
+Effective Date: 2026-01-01
+Country: Belgium
+Department: All
+Audience: Employees
+Purpose: Explain how annual leave is earned, requested, and approved.
+Scope: Applies to all employees of Northstar Analytics.
+
+Note: This is a synthetic, fictional document created for educational purposes.
+It does not describe any real company and is not legal advice.
+
+Overview
+--------
+Northstar Analytics provides annual leave so employees can rest and maintain a
+healthy work-life balance. This policy explains the amount of leave available,
+how to request it, and how approval works.
+
+Leave Entitlement
+-----------------
+Every employee receives 20 working days of annual leave per calendar year. Leave
+is counted in working days and does not include weekends or recognised company
+holidays. Employees who join partway through the year receive a proportional
+amount for their first year.
+
+Requesting Leave
+----------------
+Leave requests should normally be submitted at least 10 working days in advance.
+Requesting early helps managers plan team coverage and reduces scheduling
+conflicts. Requests are made through the standard internal HR process.
+
+Approval
+--------
+Manager approval is required before any leave is confirmed. Managers consider
+team workload, project deadlines, and existing approved leave when reviewing a
+request. Employees should not finalise travel or other plans until their leave
+has been approved.
+
+Carryover
+---------
+Unused annual leave is not automatically carried over into the next calendar
+year. Employees are encouraged to plan their leave across the year so that their
+full entitlement can be used. Any exceptional situations should be discussed with
+HR in advance.
+
+Exceptional Cases
+-----------------
+For situations not covered by this policy, such as extended leave or unusual
+circumstances, employees should contact HR directly. HR can explain the options
+available and any additional steps required.
+
+Summary
+-------
+- 20 working days of annual leave per calendar year.
+- Submit requests at least 10 working days in advance.
+- Manager approval is always required.
+- Unused leave does not automatically carry over.
+- Contact HR for exceptional cases.

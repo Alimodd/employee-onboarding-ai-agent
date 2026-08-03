@@ -1,0 +1,56 @@
+Title: Employee Benefits Guide
+Document ID: NS-HR-005
+Document Type: HR Guide
+Version: 1.0
+Effective Date: 2026-01-01
+Country: Belgium
+Department: All
+Audience: Employees
+Purpose: Summarise the main employee benefits offered by the company.
+Scope: Applies to all employees of Northstar Analytics.
+
+Note: This is a synthetic, fictional document created for educational purposes.
+It does not describe any real company and is not legal advice.
+
+Overview
+--------
+This guide summarises the main benefits available to employees at Northstar
+Analytics. It is a high-level overview; specific details may be confirmed with HR.
+
+Public Transport Reimbursement
+------------------------------
+Employees can receive public transport reimbursement according to the fictional
+company scheme. The scheme encourages sustainable commuting and helps reduce
+travel costs. HR can explain how to submit a claim.
+
+Health Insurance
+----------------
+The company provides a basic health-insurance contribution. This contributes
+towards an employee's health coverage as part of the overall benefits package.
+Details of the coverage are available from HR.
+
+Training Budget
+---------------
+Employees have access to a training budget, subject to manager approval. The
+budget supports learning that is relevant to the employee's role and development.
+Requests should be discussed with the manager before any commitment is made.
+
+Meal Vouchers
+-------------
+Meal vouchers are provided on eligible working days. Eligibility depends on the
+company scheme and the days actually worked. The vouchers are a common part of the
+overall compensation package.
+
+Eligibility
+-----------
+Benefits may depend on employment type, such as full-time or part-time status.
+Some benefits may be adjusted proportionally. Employees can contact HR to confirm
+which benefits apply to their specific situation.
+
+Summary
+-------
+- Public transport reimbursement per the company scheme.
+- Basic health-insurance contribution.
+- Training budget subject to manager approval.
+- Meal vouchers on eligible working days.
+- Benefits may depend on employment type.

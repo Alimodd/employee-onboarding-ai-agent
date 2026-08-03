@@ -1,0 +1,57 @@
+Title: Sick Leave Policy
+Document ID: NS-HR-003
+Document Type: HR Policy
+Version: 1.0
+Effective Date: 2026-01-01
+Country: Belgium
+Department: All
+Audience: Employees
+Purpose: Explain how to report sickness absence and what is expected.
+Scope: Applies to all employees of Northstar Analytics.
+
+Note: This is a synthetic, fictional document created for educational purposes.
+It does not describe any real company and is not legal advice.
+
+Overview
+--------
+This policy explains what employees should do when they are unable to work due to
+illness. The goal is a clear, respectful process that helps teams plan while
+protecting employee privacy.
+
+Reporting an Absence
+--------------------
+Employees must notify their direct manager before 09:00 on the first day of
+absence. Early notice allows the team to adjust work and coverage for the day.
+Notification should be made through the normal agreed communication method.
+
+Estimated Duration
+------------------
+When possible, employees should provide an estimated duration of their absence.
+This helps managers plan workloads and reassign urgent tasks. If the situation
+changes, employees should update their manager as soon as they can.
+
+Medical Documentation
+---------------------
+Medical documentation may be requested according to the internal procedure. The
+requirement depends on the length and nature of the absence. HR can explain when
+documentation is needed and how it should be provided.
+
+Privacy
+-------
+Health details should not be shared in unnecessary detail. Employees only need to
+report that they are unwell and, where relevant, the expected duration. Managers
+and colleagues should treat all such information with discretion.
+
+Getting Help
+------------
+If an employee is unsure how to report an absence or has questions about the
+process, HR can clarify the reporting steps. HR is the point of contact for any
+exceptional or unclear situations.
+
+Summary
+-------
+- Notify your direct manager before 09:00 on the first day.
+- Provide an estimated duration when possible.
+- Medical documentation may be requested per internal procedure.
+- Do not share unnecessary health details.
+- Contact HR to clarify the reporting process.

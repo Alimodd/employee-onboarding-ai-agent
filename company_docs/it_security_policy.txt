@@ -1,0 +1,56 @@
+Title: IT Security Policy
+Document ID: NS-IT-001
+Document Type: IT Policy
+Version: 1.0
+Effective Date: 2026-01-01
+Country: All
+Department: All
+Audience: Employees
+Purpose: Set basic security rules for protecting company systems and data.
+Scope: Applies to all employees of Northstar Analytics.
+
+Note: This is a synthetic, fictional document created for educational purposes.
+It does not describe any real company and is not legal advice.
+
+Overview
+--------
+Good security is everyone's responsibility. This policy sets out simple, practical
+rules that help protect company systems, data, and people from common threats.
+
+Approved Devices
+----------------
+Employees must use company-approved devices for work tasks. Approved devices are
+configured with the required security controls. Personal devices should not be
+used to store or process confidential company information.
+
+Passwords
+---------
+Do not share passwords with anyone, including colleagues. Each person is
+responsible for the activity on their own account. Passwords should be unique and
+kept private at all times.
+
+Multi-Factor Authentication
+---------------------------
+Employees must enable multi-factor authentication (MFA) on company accounts that
+support it. MFA adds a second layer of protection so that a stolen password alone
+is not enough to access an account.
+
+Suspicious Emails
+-----------------
+Report suspicious emails, such as unexpected attachments or requests for
+credentials, through the internal reporting channel. Do not click links or open
+attachments you were not expecting. When in doubt, ask before acting.
+
+Data Handling
+-------------
+Do not upload company documents to unauthorized services or personal cloud
+accounts. Company data should only be stored in approved locations. This helps
+prevent accidental leaks and keeps information under proper control.
+
+Summary
+-------
+- Use company-approved devices.
+- Do not share passwords.
+- Enable multi-factor authentication.
+- Report suspicious emails.
+- Do not upload company documents to unauthorized services.

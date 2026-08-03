@@ -1,0 +1,59 @@
+Title: Remote Work Policy
+Document ID: NS-HR-002
+Document Type: HR Policy
+Version: 1.0
+Effective Date: 2026-01-01
+Country: Belgium
+Department: All
+Audience: Employees
+Purpose: Define how and when employees may work remotely.
+Scope: Applies to all employees of Northstar Analytics.
+
+Note: This is a synthetic, fictional document created for educational purposes.
+It does not describe any real company and is not legal advice.
+
+Overview
+--------
+Northstar Analytics supports a balanced approach to remote work. This policy
+explains how many remote days are allowed, how approval works, and the
+expectations employees must meet while working away from the office.
+
+Remote Work Allowance
+---------------------
+Employees may work remotely up to 2 days per week. The remaining working days are
+expected to be on-site unless a specific arrangement has been agreed. Standard
+working hours remain Monday to Friday, 09:00 to 17:00, whether an employee is
+on-site or remote.
+
+Approval
+--------
+Manager approval is required for a remote-work arrangement. Managers consider the
+needs of the role, team collaboration, and current projects. Approved
+arrangements may be reviewed if business needs change.
+
+Availability
+------------
+Employees must remain reachable during working hours while working remotely. This
+means being available on approved communication tools and responding within a
+reasonable time. Remote work is not a substitute for leave or reduced hours.
+
+Data Protection
+---------------
+Confidential company data must not be handled on public or shared devices.
+Employees should use company-approved equipment and secure networks. Sensitive
+information should never be accessed from unsecured public places where it could
+be seen by others.
+
+Role-Specific Requirements
+--------------------------
+Some roles may require more on-site presence than others. For example, roles that
+depend on in-person collaboration or physical equipment may have a lower remote
+allowance. Managers will communicate any such requirements clearly.
+
+Summary
+-------
+- Up to 2 remote-work days per week.
+- Manager approval is required.
+- Employees must remain reachable during working hours.
+- Confidential data must not be handled on public devices.
+- Some roles may require more on-site presence.
